@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
   "name": "middleware",
   "version": "1.0.0",
   "main": "server.js",
+=======
+  "name": "url-incodeded-data",
+  "version": "1.0.0",
+  "main": "Server.js",
+>>>>>>> dd59020 (done)
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
@@ -11,8 +17,12 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.20.3",
     "express": "^4.21.2",
     "mongoose": "^8.10.0"
+=======
+    "express": "^4.21.2"
+>>>>>>> dd59020 (done)
   }
 }
